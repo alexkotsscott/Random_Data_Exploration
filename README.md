@@ -2,7 +2,7 @@
 - text in #ff6961
 ```
 
-![](https://img.shields.io/static/v1?label=&message=Ааи&color=green)
+![](https://img.shields.io/static/v1?label=&message=Александр&color=:#A7C7E7)
 
 <h2 style="color:#ff6961"> Works in Progress TEST </h2> <ol  style="color:#A7C7E7">
    
