@@ -1,3 +1,14 @@
+<h2 style="color:#ff6961"> Works in Progress </h2> <ol  style="color:#A7C7E7">
+   
+  <li>Stratify the data better (by LOB in particular) to better relect realistic scenarios</li>
+  <li>Example - for commercial property setting the value of the individual site, use external data</li>
+
+  <li>Not worthwhile spending time here Going between rpy2 (using Python in R, seperate notebooks for now) - Easier in Data bricks %R, %sql, %Python magic commands</li>
+  <li>Include some outliers for testing (so can create a control table to flag or drop these fields)</li>
+
+
+</ol> 
+
 # Last Update - 2023/02/22
 
 # Random_Data_Exploration
