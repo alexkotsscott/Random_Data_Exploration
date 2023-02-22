@@ -18,6 +18,10 @@
 
 Exploring ways to share code & demos via new code space feature
 
+Coding is primarly (at this point in time) written in both R & Python
+Both R & Python scripts will have a dedicated Engine to power the behind the scenes stuff - install (if not installed) packages 
+The engine also contains user defined functions that are used regularly & can likely to be required to run a particular project
+
 
 # Last Update - 2023/02/22
 
