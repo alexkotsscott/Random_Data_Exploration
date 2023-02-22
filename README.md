@@ -18,7 +18,7 @@ Another appproach for generating REAL Postcodes is via python (check the script)
 
 Randomly Generated fields below
 
-[https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/01_Create_Data.ipynb](other_file.md)
+[https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/01_Create_Data.ipynb](https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/01_Create_Data.ipynb)
 
 "Customer_ID"
 "Purchase_Date"
