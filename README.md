@@ -18,7 +18,11 @@ Another appproach for generating REAL Postcodes is via python (check the script)
 
 Randomly Generated fields below
 
-[hello](https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/01_Create_Data.ipynb)
+The link below creates random data based on criteria to generate random data, sample size is optional, simple logic for example you can't have a claim count where there was no conversion (sale) to begin with
+
+The below is a generic random dataset for multiple lines of business 
+  - work to be done here on the data sample - a claim for £200 for a phone is not the same as £2,000,000 for comercial property
+[01_Create_Data](https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/01_Create_Data.ipynb)
 
 "Customer_ID"
 "Purchase_Date"
