@@ -1,5 +1,5 @@
 ```diff
-- text in red
+- text in #ff6961
 + text in green
 ! text in orange
 # text in gray
