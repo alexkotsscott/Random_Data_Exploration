@@ -1,9 +1,5 @@
 ```diff
 - text in #ff6961
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
 ```
 
 <h2 style="color:#ff6961"> Works in Progress TEST </h2> <ol  style="color:#A7C7E7">
