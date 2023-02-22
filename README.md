@@ -2,7 +2,9 @@
 - test colour text #ff6961
 ```
 
-![](https://img.shields.io/static/v1?label=&message=Александр&color=:#A7C7E7)
+![](https://img.shields.io/static/v1?label=&message=александр-котенко&color=:#A7C7E7)
+
+![](https://img.shields.io/static/v1?label=&message=Readme's_in_each_folder_for_more_detail&color=:#FAC898)
 
 <h2 style="color:#ff6961"> Works in Progress TEST </h2> <ol  style="color:#A7C7E7">
    
@@ -14,6 +16,8 @@
 
 
 </ol> 
+
+
 
 # Last Update - 2023/02/22
 
@@ -39,6 +43,8 @@ The link below creates random data based on criteria to generate random data, sa
 
 The below is a generic random dataset for multiple lines of business 
   - work to be done here on the data sample - a claim for £200 for a phone is not the same as £2,000,000 for comercial property
+   - Example creating a random data set purely for the motor market - so more sensible inputs in terms of premium claims etc (second hyperlink) 
+  
 [01_Create_Data](https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/01_Create_Data.ipynb)
 
 [01_Create_Data_Motor](https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/01_Motor_Create_Data.ipynb)
