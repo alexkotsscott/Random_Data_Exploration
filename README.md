@@ -1,6 +1,6 @@
 ![](https://img.shields.io/static/v1?label=&message=александр-котенко&color=:#A7C7E7)
 
-![](https://img.shields.io/static/v1?label=&message=Readme's_in_each_folder_for_more_detail&color=:#FAC898)
+![](https://img.shields.io/static/v1?label=&message=Readme's_in_each_Script&color=:#FAC898)
 
 <h2 style="color:#ff6961"> Works in Progress TEST </h2> <ol  style="color:#A7C7E7">
    
