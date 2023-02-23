@@ -12,14 +12,17 @@
 </ol> 
 
 
-Exploring ways to share code & demos via new code space feature
+Exploring ways to share code & demos via new [code space feature](https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/CodeSpace_Link.md)
+Codespace is pretty basic - about 5gb RAM
+Linux based
+Can handle some of the smaller demos
 
 Coding is primarly (at this point in time) written in both R & Python
 Both R & Python scripts will have a dedicated Engine to power the behind the scenes stuff - install (if not installed) packages 
 The engine also contains user defined functions that are used regularly & can likely to be required to run a particular project
 
 
-# Last Update - 2023/02/22
+# Last Update - 2023/02/23
 
 # Random_Data_Exploration
 [01_Create_Data](https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/01_Create_Data.ipynb)
