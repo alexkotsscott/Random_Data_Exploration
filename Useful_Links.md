@@ -9,9 +9,6 @@
 
 [Train_Validate_Test](https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7)
 
-````diff
-+ Green Text
-- Red Text
-  
-  <p>Hi here is some text <span>this is red</span>.</p>
-RED APPLE (&#x1F34E;):
+<h2 style="color:#ff6961"> Open Source Datasets (GBMS) </h2>
+
+[Train_Validate_Test](https://earthquake.usgs.gov/)
