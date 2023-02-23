@@ -12,3 +12,6 @@
 <h2 style="color:#ff6961"> Open Source Datasets (GBMS) </h2>
 
 [Train_Validate_Test](https://earthquake.usgs.gov/)
+
+<h2 style="color:#ff6961"> Jupyter </h2> <ol  style="color:#A7C7E7">
+[](https://github.com/jupyterlab/extension-examples)
