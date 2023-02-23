@@ -49,6 +49,8 @@ The below is a generic random dataset for multiple lines of business
   - work to be done here on the data sample - a claim for £200 for a phone is not the same as £2,000,000 for comercial property
    - Example creating a random data set purely for the motor market - so more sensible inputs in terms of premium claims etc (second hyperlink) 
   
+[GBMs]('https://neptune.ai/blog/lightgbm-parameters-guide)  
+  
 [01_Create_Data](https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/01_Create_Data.ipynb)
 
 [01_Create_Data_Motor](https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/01_Motor_Create_Data.ipynb)
