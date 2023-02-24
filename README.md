@@ -55,14 +55,15 @@ The below is a generic random dataset for multiple lines of business
 
 [01_Create_Data_Motor](https://github.com/alexkotsscott/Random_Data_Exploration/blob/main/01_Motor_Create_Data.ipynb)
 
-"Customer_ID"
-"Purchase_Date"
-"Cover_Start_Date"
-"LOB"
-"Sale_Flag"
-"Purchase_Price"
-"Claims_Count"
-"Period_of_Cover"
+"Customer_ID":          Cryptographically generated random identifiers
+"Purchase_Date":        Dates are random within a given range, Purchase date must always be earlier or equal to - Cover_Start_Date
+"Cover_Start_Date":     Date Cover Starts - Random
+"LOB":                  Line Of Business
+"Sale_Flag":            Binary - 0/1
+"Purchase_Price":       Randomly generated - needs to be taylored for each LOB
+"Claims_Count":         Number of claims in the customers history - currently just between 0/1 at random - only generated for sales (work to be done here)
+"Convictions Count":    Number of historical convictions (regardless of sale 0/1 here), bound between 0 -> 5 at random
+"Period_of_Cover":      
 "Premium"
 "Age"
 "Broker"
