@@ -6,6 +6,8 @@
 ![](https://img.shields.io/badge/powered%20by%20Python-yellow.svg?logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/powered%20by%20R-blue.svg?logo=R&logoColor=white)
 ![](https://img.shields.io/badge/-Powered%20by%20R-61DAFB?logo=Rstudio&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Powered%20by%20SublimeText-000000?logo=sublimetext&logoColor=#FFA500&style=flat)
+
 
 # Being deprecated - see instead the current project for fututre updates, link to the repo below
 
