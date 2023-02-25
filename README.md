@@ -1,9 +1,11 @@
-![](https://img.shields.io/static/v1?label=&message=александр-котенко&color=:#A7C7E7)
+![](https://img.shields.io/static/v1?label=&message=александр-котенко&logocolor=:#000000)
+![](https://img.shields.io/static/v1?label=&message=александр-котенко&color=:#000000)
 
-![](https://img.shields.io/static/v1?label=&message=Readme's_in_each_Script&color=:#FAC898)
+![](https://img.shields.io/static/v1?label=&message=Readme's_in_Each_Folder&color=:#FAC898)
 
-![](https://img.shields.io/badge/powered%20by%20JupyterLab-blue.svg?logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/powered%20by%20Python-yellow.svg?logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-Powered%20by%20JupyterLab-000000?logo=jupyter)
+![](https://img.shields.io/badge/powered%20by%20JupyterLab-blue.svg?logo=jupyter)
+![](https://img.shields.io/badge/powered%20by%20Python-000000.svg?logo=Python)
 ![](https://img.shields.io/badge/powered%20by%20R-blue.svg?logo=R&logoColor=white)
 ![](https://img.shields.io/badge/-Powered%20by%20R-61DAFB?logo=Rstudio&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Powered%20by%20SublimeText-000000?logo=sublimetext&logoColor=#FFA500&style=flat)
