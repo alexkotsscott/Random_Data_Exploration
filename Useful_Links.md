@@ -1,4 +1,3 @@
-## Git Markdown cheatsheet
 [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 <h2 style="color:#ff6961"> Gradient Boosting Models (GBMS) </h2>
